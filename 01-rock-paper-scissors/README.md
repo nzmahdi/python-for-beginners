@@ -46,6 +46,31 @@ to exit the game.
 python main.py
 ```
 ---
+## Goal
+
+The goal of this exercise is to practice the basic concepts of Python by building a small and interactive game.
+
+This project helps me understand how different Python concepts work together to create a complete program.
+
+---
+
+## What I Learned
+
+While building this project, I practiced and learned:
+
+- Using variables to store data
+- Getting user input with `input()`
+- Using `if` statements and conditions
+- Using `while` loops
+- Using `break` and `continue`
+- Working with lists
+- Using the `random` module
+- Generating random choices with `random.choice()`
+- Comparing values with conditional operators
+- Keeping track of scores using variables
+- Handling and validating user input
+- Building a simple game logic
+---
 
 ## Author
 created by **nzmahdi**
