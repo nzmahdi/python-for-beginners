@@ -17,6 +17,7 @@ Each project has its own folder containing the source code and a separate `READM
 | # | Project | Description |
 |---|---------|-------------|
 | 01 | [Rock Paper Scissors](./01-rock-paper-scissors/) | A simple Rock Paper Scissors game built with Python. The player competes against a robot that makes random choices. The first player to reach 3 points wins. |
+| 02 | [Number Guessing Game](./02-guessing-the-number/) | A number guessing game where the player tries to guess a randomly generated number between 1 and 50. The player has limited lives and can complete a math challenge to earn extra lives. |
 
 ---
 
