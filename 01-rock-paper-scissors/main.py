@@ -66,3 +66,4 @@ while True:
 # Thanks for checking out my project!
 # Follow me on GitHub: github.com/nzmahdi
 # If you like this project, consider giving it a star!
+#thank you have fun :)
